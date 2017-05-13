@@ -1,0 +1,28 @@
+
+
+The predictors provided are as follows:
+State,
+Account Length,
+Area Code,
+Phone,
+International Plan,
+VMail Plan,
+VMail Message,
+Day Mins,
+Day Calls,
+Day Charge,
+Eve Mins,
+Eve Calls,
+Eve Charge,
+Night Mins,
+Night Calls,
+Night Charge,
+International Mins,
+International Calls,
+International Charge,
+CustServ Calls
+
+
+
+Target Variable:
+Churn: if the customer has churned (True; False)
